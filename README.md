@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with enhancing my skills in data visualization and advanced machine learning techniques.
 - 📫 How to reach me: [https://www.linkedin.com/in/lydia-hdb/]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never leave things unfinished and always strive to complete what I start.
+- ⚡ Fun fact: I never leave things unfinished and always strive to complete what I start. 
 
